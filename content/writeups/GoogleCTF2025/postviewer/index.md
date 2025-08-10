@@ -1,6 +1,8 @@
-+++postviewer writeup by sanat
 +++
-
+title = "POSTVIEWER"
+date = 2025-08-11
+authors = ["Sanat Garyali"]
++++
 ## Introduction
 
 This year’s **Postviewer** in Google CTF was a SafeContentFrame (SCF) playground ,a client-side puzzle where files render on a sandbox origin instead of your app’s origin. Only **2 solves**. It’s intentionally evil: the fix is simple, the race is not.
